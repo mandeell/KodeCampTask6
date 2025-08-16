@@ -49,7 +49,7 @@ def save_students(students_dict):
 
 def hash_password(password: str) -> str:
     """Hash password using SHA-256 with salt"""
-    salt = "secure_student_portal_salt"  # Should be random and stored securely
+    salt = "secure_student_portal_salt"
     return hashlib.sha256((password + salt).encode()).hexdigest()
 
 def get_current_username(credentials: HTTPBasicCredentials = Depends(security)):
