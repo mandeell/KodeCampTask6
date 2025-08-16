@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "description": "High-performance laptop for work and gaming",
+    "price": 999.99,
+    "stock": 10,
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "description": "Latest smartphone with advanced features",
+    "price": 699.99,
+    "stock": 25,
+    "category": "Electronics"
+  },
+  {
+    "id": 3,
+    "name": "Coffee Mug",
+    "description": "Ceramic coffee mug with custom design",
+    "price": 12.99,
+    "stock": 50,
+    "category": "Home & Kitchen"
+  }
+]
