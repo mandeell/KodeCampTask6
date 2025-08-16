@@ -1,0 +1,10 @@
+{
+  "admin": [
+    {
+      "product_id": 1,
+      "product_name": "Laptop",
+      "price": 999.99,
+      "quantity": 9
+    }
+  ]
+}

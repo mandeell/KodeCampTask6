@@ -1,0 +1,7 @@
+{
+  "admin": {
+    "password_hash": "3e9e73235f5f9b91921cd73e391068c9fdeee1223596e5ab1349562fffa26074",
+    "role": "admin",
+    "email": "admin@shop.com"
+  }
+}
